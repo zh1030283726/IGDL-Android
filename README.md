@@ -1,4 +1,4 @@
-# 📱 IGDL-Android
+# 📱 IGDL-Android （Instagram Reels Dowloader Android）
 
 IGDL-Android 是一款 Android 平台的 Instagram Reels / 影片下載工具，支援多語言與自訂伺服器端點，簡單高效，無需額外安裝插件即可使用。
 
