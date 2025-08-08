@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 圓形底 -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M12,2a10,10 0 1,0 0,20a10,10 0 1,0 0,-20z"/>
+    <!-- 下載箭頭 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,6v7l3,-3 1.4,1.4L12,16.8 7.6,11.4 9,10l3,3V6z"/>
+    <!-- 底線 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,18h12v2H6z"/>
+</vector>

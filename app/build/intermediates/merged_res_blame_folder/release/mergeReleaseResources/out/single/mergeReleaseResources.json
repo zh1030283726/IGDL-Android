@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/drawable_ic_brand.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/drawable/ic_brand.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/xml_locales_config.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/xml/locales_config.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/xml_network_security_config.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/mipmap-anydpi-v26_ic_launcher_monochrome.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/mipmap-anydpi-v26/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/mipmap_ic_launcher.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-release-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-65:/drawable/ic_launcher_foreground.xml"
+    }
+]

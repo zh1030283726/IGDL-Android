@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\drawable-anydpi-v26_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\drawable-anydpi-v26\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "io.github.zh1030283726.igdl.app-debug-68:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "io.github.zh1030283726.igdl.app-main-70:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\mipmap-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\drawable_ic_brand.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\drawable\\ic_brand.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\mipmap-anydpi-v26_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\mipmap-anydpi-v26\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\xml_locales_config.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\xml\\locales_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-debug-68:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\EZ24\\.gradle\\daemon\\8.12\\io.github.zh1030283726.igdl.app-main-70:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
