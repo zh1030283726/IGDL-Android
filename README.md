@@ -10,7 +10,7 @@ Simple, efficient, and works out of the box without any additional plugins.
 
 ---
 ### Language
-### [ENG](/README_EN.md) [繁體中文](/README.md)
+### [ENG](/README.md) [繁體中文](/README_TW.md)
 ---
 
 ## ✨ Features
