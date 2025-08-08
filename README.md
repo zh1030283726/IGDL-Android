@@ -2,7 +2,7 @@
 
 IGDL-Android 是一款 Android 平台的 Instagram Reels / 影片下載工具，支援多語言與自訂伺服器端點，簡單高效，無需額外安裝插件即可使用。
 
-![GitHub release](https://img.shields.io/github/v/release/zh1030283726/IGDL-Android/releases)
+![GitHub release](https://img.shields.io/github/v/release/zh1030283726/IGDL-Android/)
 ![License](https://img.shields.io/github/license/zh1030283726/IGDL-Android)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 ---
