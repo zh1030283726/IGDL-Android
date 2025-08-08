@@ -59,4 +59,4 @@ Instagram-reels-downloader — https://github.com/Okramjimmy/Instagram-reels-dow
 ---
 
 ### 🧾 授權
-本項目採用 MIT License 授權。
+本項目採用 [MIT License](/LICENSE) 授權。
