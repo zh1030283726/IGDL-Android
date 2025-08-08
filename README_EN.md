@@ -9,6 +9,9 @@ Simple, efficient, and works out of the box without any additional plugins.
 ![Platform](https://img.shields.io/badge/platform-Android-green)
 
 ---
+### Language
+### [ENG](/README_EN.md) [繁體中文](/README.md)
+---
 
 ## ✨ Features
 - 🚀 **Fast downloads** for Instagram Reels / videos
