@@ -64,4 +64,4 @@ Instagram-reels-downloader — https://github.com/Okramjimmy/Instagram-reels-dow
 ---
 
 ## 🧾 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](/LICENSE).
