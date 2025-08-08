@@ -28,7 +28,7 @@ Simple, efficient, and works out of the box without any additional plugins.
   Deploy using [Instagram-reels-download-docker](https://github.com/zh1030283726/Instagram-reels-download-docker)
 
 - **Option B:**  
-  Deploy using the [original project](https://github.com/Okramjimmy/Instagram-reels-downloader)
+  Deploy using the [original repo](https://github.com/Okramjimmy/Instagram-reels-downloader)
 
 ---
 
@@ -58,7 +58,7 @@ cd IGDL-Android
 ---
 
 ## 📚 Based On / Credits
-This project is modified and extended from the following open-source project:
+This project is modified and extended from the following open-source Repo:
 Instagram-reels-downloader — https://github.com/Okramjimmy/Instagram-reels-downloader
 
 ---
